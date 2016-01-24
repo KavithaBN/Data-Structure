@@ -51,6 +51,7 @@ class minelementbinarytree {
      
  
     public static void main(String[] args) {
+    	 
     	minelementbinarytree tree = new minelementbinarytree();
         Node root = null;
         root = tree.insert(root, 4);
