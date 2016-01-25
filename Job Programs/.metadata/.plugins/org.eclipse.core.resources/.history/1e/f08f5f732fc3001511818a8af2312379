@@ -19,7 +19,7 @@ class bst
     Node root;
  
    
-   void bst()
+    bst()
     {
         root = null;
     }
