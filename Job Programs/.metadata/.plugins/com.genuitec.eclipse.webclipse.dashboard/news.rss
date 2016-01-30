@@ -12,12 +12,30 @@
 	<atom:link href="https://www.genuitec.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.genuitec.com</link>
 	<description>The Cloud Control Company</description>
-	<lastBuildDate>Mon, 25 Jan 2016 03:21:50 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Jan 2016 15:52:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=4.3.1</generator>
 	<item>
+		<title>Command Handler Guide for Eclipse</title>
+		<link>https://www.genuitec.com/command-handler/</link>
+		<comments>https://www.genuitec.com/command-handler/#comments</comments>
+		<pubDate>Thu, 28 Jan 2016 16:54:49 +0000</pubDate>
+		<dc:creator><![CDATA[vasanthis]]></dc:creator>
+				<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Genuitec]]></category>
+		<category><![CDATA[MyEclipse]]></category>
+		<category><![CDATA[Webclipse]]></category>
+
+		<guid isPermaLink="false">https://www.genuitec.com/?p=466687</guid>
+		<description><![CDATA[<p>Introduction to Command Handlers in EclipseA command is the declaration of a behavior by id.  Commands are used to declare semantic behavior and the corresponding action implementations can be defined elsewhere by handlers.There are several advantages of command handlers:Defining menu contribution and commands uses same set of extensions points for multiple scenarios.UI and handling are not [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.genuitec.com/command-handler/">Command Handler Guide for Eclipse</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.genuitec.com/command-handler/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>No such thing as too many releases</title>
 		<link>https://www.genuitec.com/no-such-thing-as-too-many-releases/</link>
 		<comments>https://www.genuitec.com/no-such-thing-as-too-many-releases/#comments</comments>
@@ -301,22 +319,6 @@
 		<wfw:commentRss>https://www.genuitec.com/using-example-projects-to-customize-sdc/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
-		<item>
-		<title>GapDebug Twitter Chat &#8211; October 6th Recap</title>
-		<link>https://www.genuitec.com/gapdebug-twitter-chat-october-6th-recap/</link>
-		<comments>https://www.genuitec.com/gapdebug-twitter-chat-october-6th-recap/#comments</comments>
-		<pubDate>Wed, 07 Oct 2015 15:29:07 +0000</pubDate>
-		<dc:creator><![CDATA[Rocio Trujillo]]></dc:creator>
-				<category><![CDATA[GapDebug]]></category>
-		<category><![CDATA[Genuitec]]></category>
-
-		<guid isPermaLink="false">https://www.genuitec.com/?p=454440</guid>
-		<description><![CDATA[<p>Here is the Twitter chat recap in case you missed it!Q1. To kick things off, for those new to #phonegap hybrid app dev, what does @GapDebug bring to the mix?A1 @GapDebug is a free #crossplatform debugger for #cordova #iOS and #Android appls. A1 Recent updates added more app mgmt supt.A1 The current release is version [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.genuitec.com/gapdebug-twitter-chat-october-6th-recap/">GapDebug Twitter Chat &#8211; October 6th Recap</a> appeared first on <a rel="nofollow" href="https://www.genuitec.com">Genuitec</a>.</p>
-]]></description>
-		<wfw:commentRss>https://www.genuitec.com/gapdebug-twitter-chat-october-6th-recap/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
 	</channel>
 </rss>
 
@@ -324,7 +326,7 @@
 
 Page Caching using disk: enhanced
 Database Caching using disk
-Object Caching 2092/2243 objects using disk
+Object Caching 2149/2376 objects using disk
 Content Delivery Network via resources.cloud.genuitec.com
 
- Served from: www.genuitec.com @ 2016-01-25 00:45:30 by W3 Total Cache -->
+ Served from: www.genuitec.com @ 2016-01-30 14:43:27 by W3 Total Cache -->
