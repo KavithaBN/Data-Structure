@@ -1,0 +1,11 @@
+package eclipsepackage;
+
+import java.util.*;
+
+public class addnumbersinarrya
+{
+	public static void main(string[] args)
+	{
+		
+	}
+}
